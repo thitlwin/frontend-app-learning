@@ -33,7 +33,7 @@
     "url": "https://github.com/openedx/frontend-app-learning/issues"
   },
   "dependencies": {
-    "@edx/brand": "npm:@openedx/brand-openedx@^1.2.2",
+    "@edx/brand": "github:thitlwin/brand-mylango.app",
     "@edx/browserslist-config": "1.2.0",
     "@edx/frontend-component-header": "^5.8.0",
     "@edx/frontend-lib-learning-assistant": "^2.2.4",
